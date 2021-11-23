@@ -1,2 +1,2 @@
 # Değişkenler
-Yeni bir konsol uygulaması açılıp değişken örnekleri yapıldı.
+Yeni bir .Net Core konsol uygulaması açılıp değişken örnekleri yapıldı.
