@@ -1,0 +1,16 @@
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.exe
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.deps.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.runtimeconfig.dev.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\bin\Debug\net5.0\ref\tip_donusumleri.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\obj\Debug\net5.0\ref\tip_donusumleri.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.genruntimeconfig.cache
