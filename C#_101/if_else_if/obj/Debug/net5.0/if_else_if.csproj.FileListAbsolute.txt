@@ -1,0 +1,16 @@
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\bin\Debug\net5.0\if_else_if.exe
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\bin\Debug\net5.0\if_else_if.deps.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\bin\Debug\net5.0\if_else_if.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\bin\Debug\net5.0\if_else_if.runtimeconfig.dev.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\bin\Debug\net5.0\if_else_if.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\bin\Debug\net5.0\ref\if_else_if.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\bin\Debug\net5.0\if_else_if.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\obj\Debug\net5.0\if_else_if.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\obj\Debug\net5.0\if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\obj\Debug\net5.0\if_else_if.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\obj\Debug\net5.0\if_else_if.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\obj\Debug\net5.0\if_else_if.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\obj\Debug\net5.0\if_else_if.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\obj\Debug\net5.0\ref\if_else_if.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\obj\Debug\net5.0\if_else_if.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\if_else_if\obj\Debug\net5.0\if_else_if.genruntimeconfig.cache
