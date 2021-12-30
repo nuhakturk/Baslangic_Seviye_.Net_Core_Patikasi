@@ -1,0 +1,16 @@
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.exe
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.deps.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.runtimeconfig.dev.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\ref\diziler-array-sinifi-metodlari.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\ref\diziler-array-sinifi-metodlari.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.genruntimeconfig.cache
