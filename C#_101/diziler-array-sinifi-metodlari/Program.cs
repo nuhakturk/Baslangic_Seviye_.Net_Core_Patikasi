@@ -22,6 +22,16 @@ namespace diziler_array_sinifi_metodlari
             {
                 Console.WriteLine(sayi);
             }
+
+            //Clear
+            Console.WriteLine("******* Array Clear *******");
+            // sayiDizisi elemanlarını kullanarak 2. index ten itibaren 2 tane elemanı 0'lar.
+            Array.Clear(sayiDizisi,2,2);
+
+            foreach (var sayi in sayiDizisi)
+            {
+                Console.WriteLine(sayi);
+            }
         }
     }
 }
