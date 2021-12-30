@@ -1,0 +1,16 @@
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\bin\Debug\net5.0\metotlar.exe
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\bin\Debug\net5.0\metotlar.deps.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\bin\Debug\net5.0\metotlar.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\bin\Debug\net5.0\ref\metotlar.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\bin\Debug\net5.0\metotlar.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\obj\Debug\net5.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\obj\Debug\net5.0\metotlar.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\obj\Debug\net5.0\ref\metotlar.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\obj\Debug\net5.0\metotlar.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
