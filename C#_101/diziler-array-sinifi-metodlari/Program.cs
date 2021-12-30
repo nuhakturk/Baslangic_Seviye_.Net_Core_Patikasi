@@ -32,6 +32,15 @@ namespace diziler_array_sinifi_metodlari
             {
                 Console.WriteLine(sayi);
             }
+
+            //Reverse
+            Console.WriteLine("******* Array Reverse *******");
+            Array.Reverse(sayiDizisi);
+
+            foreach (var sayi in sayiDizisi)
+            {
+                Console.WriteLine(sayi);
+            }
         }
     }
 }
