@@ -41,6 +41,10 @@ namespace diziler_array_sinifi_metodlari
             {
                 Console.WriteLine(sayi);
             }
+
+            //IndexOf
+            Console.WriteLine("******* Array IndexOf *******");
+            Console.WriteLine(Array.IndexOf(sayiDizisi,23));
         }
     }
 }
