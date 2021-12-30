@@ -45,6 +45,16 @@ namespace diziler_array_sinifi_metodlari
             //IndexOf
             Console.WriteLine("******* Array IndexOf *******");
             Console.WriteLine(Array.IndexOf(sayiDizisi,23));
+
+            //Resize
+            Console.WriteLine("******* Array Resize *******");
+            Array.Resize<int>(ref sayiDizisi,10);
+            sayiDizisi[9] = 99;
+
+            foreach (var sayi in sayiDizisi)
+            {
+                Console.WriteLine(sayi);
+            }
         }
     }
 }
