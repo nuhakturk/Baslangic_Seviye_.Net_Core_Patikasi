@@ -1,0 +1,16 @@
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\bin\Debug\net5.0\metotlar_2_overloading.exe
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\bin\Debug\net5.0\metotlar_2_overloading.deps.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\bin\Debug\net5.0\metotlar_2_overloading.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\bin\Debug\net5.0\metotlar_2_overloading.runtimeconfig.dev.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\bin\Debug\net5.0\metotlar_2_overloading.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\bin\Debug\net5.0\ref\metotlar_2_overloading.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\bin\Debug\net5.0\metotlar_2_overloading.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\obj\Debug\net5.0\metotlar_2_overloading.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\obj\Debug\net5.0\metotlar_2_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\obj\Debug\net5.0\metotlar_2_overloading.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\obj\Debug\net5.0\metotlar_2_overloading.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\obj\Debug\net5.0\metotlar_2_overloading.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\obj\Debug\net5.0\metotlar_2_overloading.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\obj\Debug\net5.0\ref\metotlar_2_overloading.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\obj\Debug\net5.0\metotlar_2_overloading.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\metotlar_2_overloading\obj\Debug\net5.0\metotlar_2_overloading.genruntimeconfig.cache
