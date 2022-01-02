@@ -1,0 +1,16 @@
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.exe
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.deps.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.runtimeconfig.dev.json
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\bin\Debug\net5.0\ref\recursive_extension_metotlar.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\obj\Debug\net5.0\ref\recursive_extension_metotlar.dll
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.pdb
+C:\Users\nuh_9\Documents\Sites\C#_101_Patikasi\C#_101\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.genruntimeconfig.cache
