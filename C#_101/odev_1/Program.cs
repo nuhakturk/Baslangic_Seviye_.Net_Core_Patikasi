@@ -10,6 +10,7 @@ namespace odev_1
             Console.WriteLine("************** 1. Soru **************");
 
             uint n = 0;
+            //Sayı girişi döngüsü
             do
             {
                 try
@@ -27,13 +28,15 @@ namespace odev_1
                 }
             } while (n < 1);
 
-            uint[] pozSayiDizisi = new uint[n];
+            //Kullanıcıdan alınan sayıların diziye aktarılması
+            uint[] pozSayiDizisi = new uint[n]; //dizi büyüklüğü == n
             for (int i = 0; i < n; i++)
             {
                 Console.Write("{0}. Sayıyı giriniz: ", i + 1);
                 pozSayiDizisi[i] = uint.Parse(Console.ReadLine());
             }
 
+            //Dizideki elemanları foreach ile döndürüp çift olanları yazdırma.
             Console.WriteLine("Girmiş olduğunuz çift sayılar: \n");
             foreach (var cift in pozSayiDizisi)
             {
@@ -44,11 +47,11 @@ namespace odev_1
             }
 
             //************** 2. Soru **************
-            Console.WriteLine("************** 2. Soru **************");
+            Console.WriteLine("\n************** 2. Soru **************");
             //************** 3. Soru **************
-            Console.WriteLine("************** 3. Soru **************");
+            Console.WriteLine("\n************** 3. Soru **************");
             //************** 4. Soru **************
-            Console.WriteLine("************** 4. Soru **************");
+            Console.WriteLine("\n************** 4. Soru **************");
         }
     }
 }
