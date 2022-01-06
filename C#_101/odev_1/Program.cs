@@ -62,6 +62,14 @@ namespace odev_1
 
             //**************************** 4. Soru ****************************
             Console.WriteLine("\n************** 4. Soru **************");
+
+            string cumle;
+            Console.Write("Lütfen bir cümle yazınız: ");
+            cumle = Console.ReadLine();
+
+            Console.Write("Toplam kelime sayısı: {0}\n",cumleKelimeSay(cumle));
+            Console.Write("Toplam harf sayısı: {0}\n",cumleHarfSay(cumle));
+
         }
         //**************************** Metodlar ****************************
         //Kullanıcıdan yalnızca pozitif sayı alır.
@@ -122,7 +130,9 @@ namespace odev_1
                 {
                     Console.Write("{0}. Kelimeyi giriniz: ", i + 1);
                     veri = Console.ReadLine();
-                    if (String.IsNullOrEmpty(veri))
+                    
+                    // veri değişkenine değer girilmemiş veya boş ise.
+                    if (String.IsNullOrEmpty(veri)) 
                     {
                         Console.WriteLine("Boş Giriş yapamazsınız!\n");
                     }
@@ -130,6 +140,23 @@ namespace odev_1
                 dizi[i] = veri;
             }
             return dizi;
+        }
+
+        //String değişkendeki boşlukları siler.
+        public static int cumleHarfSay(string param)
+        {
+            string[] dizi = param.Split(" "); // boşuklardan kes ve diziye aktar.
+            param = string.Join("", dizi); //diziyi elemanlarını boşluksuz birleştir.
+            int sayi = param.Length; //değişken uzunluğunu sayiya aktar.
+            return sayi;
+        }
+
+        //String değişkendeki kelimeleri sayar.
+        public static int cumleKelimeSay(string param)
+        {
+            string[] dizi = param.Split(" "); // boşuklardan kes ve diziye aktar.
+            int sayi = dizi.Length; //dizi uzunluğunu sayiya aktar.
+            return sayi;
         }
 
         //Dizideki çift sayıları ekrana yazdırır.
