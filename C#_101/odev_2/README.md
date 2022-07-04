@@ -1,5 +1,5 @@
-# Ödev - 1
-Yeni bir .Net Core konsol uygulaması açılıp 4 maddelik ödev-1 sorularının cevapları yapıldı.
+# Ödev - 2
+3 soruluk ödev-2 sorularının cevapları yapıldı.
 
 ## Sorular
 **Soru - 1:** Klavyeden girilen 20 adet pozitif sayının asal ve asal olmayan olarak 2 ayrı listeye atın. (ArrayList sınıfını kullanara yazınız.)
