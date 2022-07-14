@@ -1,0 +1,16 @@
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\bin\Debug\net5.0\Sinif-Kavrami.exe
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\bin\Debug\net5.0\Sinif-Kavrami.deps.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\bin\Debug\net5.0\Sinif-Kavrami.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\bin\Debug\net5.0\Sinif-Kavrami.runtimeconfig.dev.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\bin\Debug\net5.0\Sinif-Kavrami.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\bin\Debug\net5.0\ref\Sinif-Kavrami.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\bin\Debug\net5.0\Sinif-Kavrami.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\obj\Debug\net5.0\Sinif-Kavrami.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\obj\Debug\net5.0\Sinif-Kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\obj\Debug\net5.0\Sinif-Kavrami.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\obj\Debug\net5.0\Sinif-Kavrami.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\obj\Debug\net5.0\Sinif-Kavrami.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\obj\Debug\net5.0\Sinif-Kavrami.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\obj\Debug\net5.0\ref\Sinif-Kavrami.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\obj\Debug\net5.0\Sinif-Kavrami.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami\obj\Debug\net5.0\Sinif-Kavrami.genruntimeconfig.cache
