@@ -1,0 +1,16 @@
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\bin\Debug\net5.0\Sinif-Kavrami-2.exe
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\bin\Debug\net5.0\Sinif-Kavrami-2.deps.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\bin\Debug\net5.0\Sinif-Kavrami-2.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\bin\Debug\net5.0\Sinif-Kavrami-2.runtimeconfig.dev.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\bin\Debug\net5.0\Sinif-Kavrami-2.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\bin\Debug\net5.0\ref\Sinif-Kavrami-2.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\bin\Debug\net5.0\Sinif-Kavrami-2.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\obj\Debug\net5.0\Sinif-Kavrami-2.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\obj\Debug\net5.0\Sinif-Kavrami-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\obj\Debug\net5.0\Sinif-Kavrami-2.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\obj\Debug\net5.0\Sinif-Kavrami-2.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\obj\Debug\net5.0\Sinif-Kavrami-2.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\obj\Debug\net5.0\Sinif-Kavrami-2.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\obj\Debug\net5.0\ref\Sinif-Kavrami-2.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\obj\Debug\net5.0\Sinif-Kavrami-2.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Sinif-Kavrami-2\obj\Debug\net5.0\Sinif-Kavrami-2.genruntimeconfig.cache
