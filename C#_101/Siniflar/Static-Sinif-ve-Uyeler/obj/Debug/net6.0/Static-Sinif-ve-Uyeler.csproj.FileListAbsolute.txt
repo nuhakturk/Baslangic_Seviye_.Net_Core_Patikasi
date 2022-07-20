@@ -1,0 +1,15 @@
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\bin\Debug\net6.0\Static-Sinif-ve-Uyeler.exe
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\bin\Debug\net6.0\Static-Sinif-ve-Uyeler.deps.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\bin\Debug\net6.0\Static-Sinif-ve-Uyeler.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\bin\Debug\net6.0\Static-Sinif-ve-Uyeler.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\bin\Debug\net6.0\Static-Sinif-ve-Uyeler.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\Static-Sinif-ve-Uyeler.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\Static-Sinif-ve-Uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\Static-Sinif-ve-Uyeler.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\Static-Sinif-ve-Uyeler.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\Static-Sinif-ve-Uyeler.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\Static-Sinif-ve-Uyeler.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\refint\Static-Sinif-ve-Uyeler.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\Static-Sinif-ve-Uyeler.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\Static-Sinif-ve-Uyeler.genruntimeconfig.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Siniflar\Static-Sinif-ve-Uyeler\obj\Debug\net6.0\ref\Static-Sinif-ve-Uyeler.dll
