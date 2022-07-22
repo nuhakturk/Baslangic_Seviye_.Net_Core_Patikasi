@@ -1,0 +1,15 @@
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\arayuzler.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\arayuzler.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\arayuzler.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\arayuzler.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\bin\Debug\net6.0\arayuzler.exe
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\bin\Debug\net6.0\arayuzler.deps.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\bin\Debug\net6.0\arayuzler.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\bin\Debug\net6.0\arayuzler.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\bin\Debug\net6.0\arayuzler.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\arayuzler.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\refint\arayuzler.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\arayuzler.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\arayuzler.genruntimeconfig.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Nesneye-Dayali-Programlama\arayuzler\obj\Debug\net6.0\ref\arayuzler.dll
