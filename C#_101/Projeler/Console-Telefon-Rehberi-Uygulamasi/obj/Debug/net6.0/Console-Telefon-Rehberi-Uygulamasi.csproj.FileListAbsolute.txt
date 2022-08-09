@@ -1,0 +1,15 @@
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.exe
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.deps.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\refint\Console-Telefon-Rehberi-Uygulamasi.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Console-Telefon-Rehberi-Uygulamasi.genruntimeconfig.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_101\Projeler\Console-Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\ref\Console-Telefon-Rehberi-Uygulamasi.dll
