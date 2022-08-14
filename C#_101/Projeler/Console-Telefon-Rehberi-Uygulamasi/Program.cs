@@ -26,38 +26,46 @@ namespace Console_Telefon_Rehberi_Uygulamasi
             {
                 //Ana Sayfa
                 AnaSayfa(rehber);
-                try
+                bool kontrolAlt = true;
+                while (kontrolAlt)
                 {
-                    secim = Convert.ToInt32(Console.ReadLine());
-                    if(secim > 0 || secim < 6)
+                    try
                     {
-                        switch (secim)
+                        Console.Write("Seçiminiz <1 - 5> : ");
+                        secim = Convert.ToInt32(Console.ReadLine());
+                        if(secim > 0 && secim < 6)
                         {
-                            case 1:
-                                Kaydet(rehber);
-                                break;
-                            case 2:
-                                Sil(rehber);
-                                break;
-                            case 3:
-                                Guncelle(rehber);
-                                break;
-                            case 4:
-                                Listele(rehber);
-                                break;
-                            case 5:
-                                RehberdeAra(rehber);
-                                break;
+                            switch (secim)
+                            {
+                                case 1:
+                                    Kaydet(rehber);
+                                    kontrolAlt = false;
+                                    break;
+                                case 2:
+                                    Sil(rehber);
+                                    kontrolAlt = false;
+                                    break;
+                                case 3:
+                                    Guncelle(rehber);
+                                    kontrolAlt = false;
+                                    break;
+                                case 4:
+                                    Listele(rehber);
+                                    kontrolAlt = false;
+                                    break;
+                                case 5:
+                                    RehberdeAra(rehber);
+                                    kontrolAlt = false;
+                                    break;
+                            }
                         }
                     }
-                    else{
-                        Console.WriteLine("Geçersiz değer girdiniz!");
+                    catch (Exception e)
+                    {
+                        Console.WriteLine("Bir hata oluştu lütfen sadece pozitif sayı girin. Hata: " + e.Message);
                     }
                 }
-                catch (Exception e)
-                {
-                    Console.WriteLine("Bir hata oluştu lütfen sadece pozitif sayı girin. Hata: " + e.Message);
-                }
+                
                 rehber = rehber.OrderBy(o => o.Isim).ToList();
             }
 
@@ -82,7 +90,6 @@ namespace Console_Telefon_Rehberi_Uygulamasi
             Console.WriteLine("(3) Varolan Numarayı Güncelleme");
             Console.WriteLine("(4) Rehberi Listelemek");
             Console.WriteLine("(5) Rehberde Arama Yapmak");
-            Console.Write("Seçiminiz <1 - 5> : ");
         }
 
         
