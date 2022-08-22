@@ -1,0 +1,15 @@
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\bin\Debug\net6.0\Ucgen_Cizme.exe
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\bin\Debug\net6.0\Ucgen_Cizme.deps.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\bin\Debug\net6.0\Ucgen_Cizme.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\bin\Debug\net6.0\Ucgen_Cizme.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\bin\Debug\net6.0\Ucgen_Cizme.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\Ucgen_Cizme.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\Ucgen_Cizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\Ucgen_Cizme.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\Ucgen_Cizme.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\Ucgen_Cizme.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\Ucgen_Cizme.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\refint\Ucgen_Cizme.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\Ucgen_Cizme.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\Ucgen_Cizme.genruntimeconfig.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ucgen_Cizme\obj\Debug\net6.0\ref\Ucgen_Cizme.dll
