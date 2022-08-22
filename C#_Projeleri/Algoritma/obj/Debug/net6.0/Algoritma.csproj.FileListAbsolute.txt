@@ -1,0 +1,15 @@
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\bin\Debug\net6.0\Algoritma.exe
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\bin\Debug\net6.0\Algoritma.deps.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\bin\Debug\net6.0\Algoritma.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\bin\Debug\net6.0\Algoritma.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\bin\Debug\net6.0\Algoritma.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\Algoritma.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\Algoritma.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\Algoritma.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\Algoritma.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\refint\Algoritma.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\Algoritma.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\Algoritma.genruntimeconfig.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Algoritma\obj\Debug\net6.0\ref\Algoritma.dll
