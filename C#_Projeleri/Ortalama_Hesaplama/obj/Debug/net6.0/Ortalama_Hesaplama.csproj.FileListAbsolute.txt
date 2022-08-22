@@ -1,0 +1,15 @@
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\bin\Debug\net6.0\Ortalama_Hesaplama.exe
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\bin\Debug\net6.0\Ortalama_Hesaplama.deps.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\bin\Debug\net6.0\Ortalama_Hesaplama.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\bin\Debug\net6.0\Ortalama_Hesaplama.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\bin\Debug\net6.0\Ortalama_Hesaplama.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\Ortalama_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\Ortalama_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\Ortalama_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\Ortalama_Hesaplama.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\Ortalama_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\Ortalama_Hesaplama.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\refint\Ortalama_Hesaplama.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\Ortalama_Hesaplama.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\Ortalama_Hesaplama.genruntimeconfig.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Ortalama_Hesaplama\obj\Debug\net6.0\ref\Ortalama_Hesaplama.dll
