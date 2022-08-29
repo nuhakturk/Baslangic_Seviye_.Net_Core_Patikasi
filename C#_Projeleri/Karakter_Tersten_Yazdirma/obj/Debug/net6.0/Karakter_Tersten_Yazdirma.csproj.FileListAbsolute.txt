@@ -1,0 +1,15 @@
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\bin\Debug\net6.0\Karakter_Tersten_Yazdirma.exe
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\bin\Debug\net6.0\Karakter_Tersten_Yazdirma.deps.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\bin\Debug\net6.0\Karakter_Tersten_Yazdirma.runtimeconfig.json
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\bin\Debug\net6.0\Karakter_Tersten_Yazdirma.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\bin\Debug\net6.0\Karakter_Tersten_Yazdirma.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\Karakter_Tersten_Yazdirma.csproj.AssemblyReference.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\Karakter_Tersten_Yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\Karakter_Tersten_Yazdirma.AssemblyInfoInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\Karakter_Tersten_Yazdirma.AssemblyInfo.cs
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\Karakter_Tersten_Yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\Karakter_Tersten_Yazdirma.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\refint\Karakter_Tersten_Yazdirma.dll
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\Karakter_Tersten_Yazdirma.pdb
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\Karakter_Tersten_Yazdirma.genruntimeconfig.cache
+C:\Users\nuh_9\Documents\Sites\.Net_Core_Patikasi\C#_Projeleri\Karakter_Tersten_Yazdirma\obj\Debug\net6.0\ref\Karakter_Tersten_Yazdirma.dll
